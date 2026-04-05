@@ -2,7 +2,7 @@
 
 > 🌐 由轻量后端服务支撑的现代化网页音乐播放器，整合多种音乐聚合接口，覆盖搜索、播放与音频下载全流程。
 
-![Review-ezgif com-optimize](https://github.com/user-attachments/assets/487157de-bf71-4bc9-9e49-16a4f0a14472)
+![Review-ezgif com-optimize](https://tc2.wanglijun.us.kg/file/1775181197305_photo_14243_28-07-2024_06-39-16.jpg1775180942225_photo_6350_22-05-2024_15-47-04.jpg)
 | | | |
 |:--:|:--:|:--:|
 | <img src="https://github.com/user-attachments/assets/7fcfd485-bcd4-46f9-887a-0a972dce3be3" height="700"/> | <img src="https://github.com/user-attachments/assets/bb092569-0a7f-47f6-b7e9-c07ea56949cf" height="700"/> | <img src="https://github.com/user-attachments/assets/02b830e3-292f-4880-91f2-86ec818b877a" height="700"/> |
